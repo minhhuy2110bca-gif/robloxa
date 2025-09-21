@@ -2,7 +2,7 @@ setfpscap(3)
 getgenv().gagConfig = {
     -- Event:
     BUY_TRAVELING_MERCHANT = { "Bee Egg", "Paradise Egg", "Loquat", "Feijoa", "Pitcher Plant" },
-    BUY_EVENT_SHOP = { "Fall Egg" },
+    BUY_EVENT_SHOP = { "Red Panda", "Marmot", "Fall Egg", "Golden Acorn", "Sugar Glider", "Space Squirrel" },
     
     PLANT_EVENT_TREES = false,  -- This config will replace most plant related config
     PLACE_COSMETIC = { "Cooking Kit" },
@@ -85,7 +85,7 @@ getgenv().gagConfig = {
     BUY_GEAR_SHOP = { "Grandmaster Sprinkler", "Master Sprinkler", "Godly Sprinkler", "Advanced Sprinkler", "Basic Sprinkler", "Trading Ticket", ["Harvest Tool"] = 10 },
     USE_SPRINKLER = { "Basic Sprinkler", "Master Sprinkler", "Godly Sprinkler", "Advanced Sprinkler", "Grandmaster Sprinkler" },
 
-    PET_WEBHOOK_URL = "https://discordapp.com/api/webhooks/1410563768022335539/3Ndx3O20C0QKyEt9PLAwLOy2GiFY3X3hkZynIu2iXcxkq4FJ5LYsQveDoVDKAu3whmcC",
+    PET_WEBHOOK_URL = "https://discord.com/api/webhooks/1410563768022335539/3Ndx3O20C0QKyEt9PLAwLOy2GiFY3X3hkZynIu2iXcxkq4FJ5LYsQveDoVDKAu3whmcC",
     SEED_WEBHOOK_URL = "", 
     NOTIFY_PETS = {
 				"Phoenix",
@@ -105,7 +105,7 @@ getgenv().gagConfig = {
 				},
     NOTIFY_PETS_WEIGHT = { ["Red Giant Ant"] = 10, ["Bear Bee"] = 10, ["Tanchozuru"] = 10 },
     DISCORD_ID = "tienthanh108bca",
-    WEBHOOK_NOTE = "PC1",
+    WEBHOOK_NOTE = "PC",
     SHOW_WEBHOOK_USERNAME = true,
     SHOW_WEBHOOK_JOBID = false,
 }
