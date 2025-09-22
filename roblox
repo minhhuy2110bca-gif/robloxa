@@ -32,7 +32,8 @@ getgenv().gagConfig = {
     FAVOURITE_FRUIT_MUTATIONS = {},  -- Stop Autosell
     SKIP_HARVEST_MUTATIONS = {},  -- Stop Harvest
 
-    KEEP_PETS = { 
+    KEEP_PETS = {
+			"Red Panda",
 			"Swan",
 			"Barn Owl",
 			"Space Squirrel",
@@ -88,6 +89,7 @@ getgenv().gagConfig = {
     PET_WEBHOOK_URL = "https://discord.com/api/webhooks/1410563768022335539/3Ndx3O20C0QKyEt9PLAwLOy2GiFY3X3hkZynIu2iXcxkq4FJ5LYsQveDoVDKAu3whmcC",
     SEED_WEBHOOK_URL = "", 
     NOTIFY_PETS = {
+				"Red Panda",
 				"Phoenix",
 				"Swan",
 				"Cockatrice",
